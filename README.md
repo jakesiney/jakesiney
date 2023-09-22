@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jake, I am passionate cloud engineer from London with a  background in advertising production. <br><br>Currently at Makers Academy.<br><br>I am  passionate about tech, cloud computing and coding!</p>
+<p align="left">My name is Jake, I am passionate cloud engineer from London with a  background in advertising production. <br><br>💻 Currently at Makers Academy.<br><br>I am  passionate about tech, cloud computing and coding!</p>
 
 ###
 
