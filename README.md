@@ -44,7 +44,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jake-siney-9b425216/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://komarev.com/ghpvc/?username=jakesiney&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
