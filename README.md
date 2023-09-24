@@ -4,7 +4,7 @@
 
 <p align="left">My name is Jake, I am cloud engineer from London with a  background in advertising production. I am  passionate about tech, cloud computing and coding!</p>
 
-<Currently working with Terrarform/Docker deploying to AWS.</p>
+<p>Currently working with Terrarform/Docker deploying to AWS.</p>
 
 
 
