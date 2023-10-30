@@ -4,7 +4,7 @@
 
 <p align="left">My name is Jake, I am developer from London with a background in advertising production. I am  passionate about tech, cloud computing, coding and DevOps!</p>
 
-👨‍💻 Currently working with Terraform and Kubernetes.</br>
+👨‍💻 Currently working with Python, Terraform and Kubernetes.</br>
 🎯 Deploying to AWS.
 
 
